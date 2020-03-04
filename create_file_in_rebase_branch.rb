@@ -1,1 +1,2 @@
 p "create file in rebase branch"
+p "create a second commit in rebase branch"

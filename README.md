@@ -4,3 +4,4 @@
 ## ---------- master branch changed for rebase #1 ---------------
 ## ---------- before rebase 1 commit for master branch ------------
 ## ---------- before rebase 2nd commit for master branch ------------
+## ---------- before rebase 3nd commit for master branch ------------

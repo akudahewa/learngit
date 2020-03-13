@@ -8,3 +8,4 @@
 
 ###### checking remove commit feature while rebasing ##########
 ****** after commented 4th commit changes ********
+####### after 6th commit from branch . this is the master change ########

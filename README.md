@@ -7,3 +7,4 @@
 ## ---------- before rebase 3nd commit for master branch ------------
 
 ###### checking remove commit feature while rebasing ##########
+****** after commented 4th commit changes ********
